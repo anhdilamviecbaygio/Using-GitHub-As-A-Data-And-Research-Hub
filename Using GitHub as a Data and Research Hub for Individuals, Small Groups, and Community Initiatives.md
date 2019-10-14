@@ -1,4 +1,4 @@
-# Using GitHub as a Data and Research Hub for Individuals, Small Groups, and Community Initiatives**
+# Using GitHub as a Data and Research Hub for Individuals, Small Groups, and Community Initiatives
 
 - Author: Adam Chau
 - Date: 10/14/2019
